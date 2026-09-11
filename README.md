@@ -8,7 +8,7 @@ Built as a capstone project for the ICAI Certificate Course on AI — Level 2.
 
 ## What it does
 
-1. **Key Financial Summary** — cross-references the figures an auditor most often needs
+1. **Key Financial Summary** — cross- the figures an auditor most often needs
    (turnover, depreciation, section 40(a) TDS disallowances, section 43B, MSME dues,
    gratuity, etc.) to their exact clause and sub-clause.
 2. **44-Clause Dashboard** — every clause of Form 3CD in one table.
